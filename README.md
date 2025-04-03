@@ -73,4 +73,4 @@ The website is compatible with all modern browsers including:
 
 ## Credits
 
-Created for Sarvarbek Agency by [Your Name] 
+Created for Sammi Agency by Sarvarbek
